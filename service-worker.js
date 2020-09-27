@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/salexpert.github.io/precache-manifest.4dcc78742ea7a4067e208f984a905b88.js"
+  "/salexpert.github.io/precache-manifest.761b6a5b802a113affd4d9e09778ce83.js"
 );
 
 self.addEventListener('message', (event) => {
